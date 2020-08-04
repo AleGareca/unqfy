@@ -1,0 +1,17 @@
+node main.js addArtist "Foo Fighters" "USA"
+node main.js addAlbum 1 "Sonic Highways" 2014
+node main.js addTrack 1 "I Am a River" 3.31 ["rock","alternative-rock"]
+
+node main.js getAllAlbums
+node main.js getAllArtists
+node main.js getAllTracks
+
+node main.js getLyricsFor 1
+node main.js populateAlbumsFor "Foo Fighters"
+node main.js getAllAlbumsForArtist "Foo Fighters"
+
+node generateSpotifyCredentials.js
+
+
+
+        

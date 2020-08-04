@@ -1,0 +1,88 @@
+{
+  "rootObjects": [
+    {
+      "id": "__00001__",
+      "name": null
+    }
+  ],
+  "objects": {
+    "__00001__": {
+      "playlists": "__00002__",
+      "artistas": "__00003__",
+      "idTrack": 0,
+      "idAlbum": 2,
+      "idArtist": 2,
+      "idPlaylist": 0,
+      "musixMatchRequester": "__00004__",
+      "spotifyRequester": "__00005__",
+      "observer": "__00006__",
+      "monitorObserver": "__00007__",
+      "listeners": "__00008__"
+    },
+    "__00002__": {},
+    "__00003__": {
+      "0": "__00009__"
+    },
+    "__00004__": {
+      "apikey": "5d830a9ff4dfc07b59930b35e04d3f5f",
+      "unqfy": "__00001__"
+    },
+    "__00005__": {
+      "access_token": "BQBitSV7MQJe_KhMvzlWGRwdDnoUDAJnfYb_dyTBQwOIb73dQ-ygpwyQBtUeL7nRb9Ydyy8GU0PZNlgNH_M-emAfVQA_zTeMSVXRPHuG06rKpSfddUd51JfFfF0Gl5-AiMliyNTQL7vz4LQKb2_XQXoTXnr_5tNQ8w",
+      "refresh_token": "AQDC75GTqmyNv98LHgeDymdDiXWnkjbpmoEJwpbbMK_0vZ9rCem4BBeRnNAvy5w71G_qXK_EKDjBvd1rR91EBb9gaybU4HLin0tDWlGqTw85aMzIoUk8_2pKozgVaT0cbVFwrw",
+      "unqfy": "__00001__"
+    },
+    "__00006__": {},
+    "__00007__": {},
+    "__00008__": {},
+    "__00009__": {
+      "observers": "__00010__",
+      "monitorObservers": "__00011__",
+      "name": "Guns n' Roses",
+      "country": "USA",
+      "id": 1,
+      "albums": "__00012__"
+    },
+    "__00010__": {
+      "0": "__00006__"
+    },
+    "__00011__": {
+      "0": "__00007__"
+    },
+    "__00012__": {
+      "0": "__00013__"
+    },
+    "__00013__": {
+      "observers": "__00014__",
+      "monitorObservers": "__00015__",
+      "autorId": 1,
+      "name": "Use Your Illusion 1",
+      "year": 1992,
+      "id": 2,
+      "tracks": "__00016__"
+    },
+    "__00014__": {},
+    "__00015__": {
+      "0": "__00007__"
+    },
+    "__00016__": {}
+  },
+  "types": {
+    "__00001__": "UNQfy",
+    "__00002__": "Array",
+    "__00003__": "Array",
+    "__00004__": "MusixMatchRequester",
+    "__00005__": "SpotifyRequester",
+    "__00006__": "Observer",
+    "__00007__": "MonitorObserver",
+    "__00008__": "Array",
+    "__00009__": "Artist",
+    "__00010__": "Array",
+    "__00011__": "Array",
+    "__00012__": "Array",
+    "__00013__": "Album",
+    "__00014__": "Array",
+    "__00015__": "Array",
+    "__00016__": "Array"
+  }
+}
